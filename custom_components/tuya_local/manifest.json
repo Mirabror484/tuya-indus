@@ -1,7 +1,7 @@
 {
 
-    "domain": "tuya_local",
-    "name": "Tuya Local",
+    "domain": "tuya_localindus",
+    "name": "Tuya Local India Edition",
     "codeowners": [
         "@make-all"
     ],
