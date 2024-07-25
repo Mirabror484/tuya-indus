@@ -1,4 +1,4 @@
-DOMAIN = "tuya_localindus"
+DOMAIN = "tuyalocalindus"
 DATA_STORE = "store"
 
 CONF_DEVICE_ID = "device_id"
